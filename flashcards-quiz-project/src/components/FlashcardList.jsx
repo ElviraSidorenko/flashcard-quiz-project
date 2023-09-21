@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import Flashcard from "./Flashcard";
 
 export default function FlashcardList({ flashcards }) {
